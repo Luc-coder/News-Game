@@ -1,0 +1,50 @@
+.main{
+	width: 100%;
+	border-top: 1px solid rgb(63, 63, 63);
+}
+
+.social_icons{
+	/* width: 100%;
+	position: relative;
+	left: 50%;
+	transform: translateX(-50%); */
+	text-align: center;
+}
+
+.youtube{
+	color: #c4302b;
+}
+
+.facebook{
+	color: #39569c;
+}
+
+.twitter{
+	color: #00acee;
+}
+
+.instagram{
+	color: #3f729b;
+}
+
+.twitch{
+	color: #6441a5;
+}
+
+.github{
+	color: #171515;
+}
+
+.linkedin{
+	color: #0072b1;
+}
+
+.youtube, .facebook, .instagram, .twitter, .twitch, .github, .linkedin{
+	font-size: 22px;
+	margin: 0 5px;
+	cursor: pointer;
+}
+
+.copy{
+	text-align: center;
+}
