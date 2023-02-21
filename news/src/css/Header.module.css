@@ -20,7 +20,11 @@
 .logo{
 	width: 120px;
 	height: 60px;
-	background-color: gray;
+	/* background-color: gray; */
+	background-image: url('https://img.freepik.com/vetores-gratis/modelo-de-logotipo-gradient-go_52683-65769.jpg?size=626&ext=jpg&ga=GA1.2.601703783.1670593364&semt=sph');
+	background-position: center;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
 	border-radius: 4px;
 	position: relative;
 	top: 50%;
