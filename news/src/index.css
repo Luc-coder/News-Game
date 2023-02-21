@@ -5,7 +5,6 @@
   font-family: 'Roboto Mono', monospace;
 }
 
-html, body{
+html, body, #root{
   height: 100%;
-  background-color: #EFEFEF;
 }

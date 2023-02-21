@@ -2,3 +2,18 @@
 	width: 100%;
 }
 
+.main_box{
+	width: 100%;
+	display: flex;
+	padding: 20px 0;
+}
+
+.propaganda, .artigos{
+	width: 15%;
+}
+
+.noticias{
+	width: 70%;
+	padding: 0 2%;
+	margin: 0 auto;
+}

@@ -1,6 +1,7 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
 import Index from './pages/Index'
+import Sobre from './pages/Sobre'
 
 import Header from './layout/Header'
 import Footer from './layout/Footer'
@@ -14,6 +15,7 @@ function App() {
         <Header />
         <Routes>
           <Route path='/' exact='true' element={<Index />}></Route>
+          <Route path='/sobre' element={<Sobre />}></Route>
         </Routes>
         <Footer />
       </Router>
